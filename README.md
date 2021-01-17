@@ -1,5 +1,8 @@
+# Crypto Boys
+This repository contains a copy of the below described repo. In addition, there are some files were we are kind of playing around with the data for learning purposes. 
+
 # btc_data
-This repository contains the Bitcoin prices and technical indicators used for creating the machine learning models in the research paper titled "Time-series forecasting of Bitcoin prices using high-dimensional features: a machine learning approach" with doi:10.1007/s00521-020-05129-6
+This repository containsthe Bitcoin prices and technical indicators used for creating the machine learning models in the research paper titled "Time-series forecasting of Bitcoin prices using high-dimensional features: a machine learning approach" with doi:10.1007/s00521-020-05129-6
 
 
 This work is licensed under a
